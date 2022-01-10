@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devansh48gupta
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Software Development and Data Analytics
 - 🌱 I’m currently learning Data Visualisation
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at devanshgupta2023@gmail.com
